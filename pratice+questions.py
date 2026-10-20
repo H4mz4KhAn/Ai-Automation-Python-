@@ -28,19 +28,24 @@
 
 # print(Fruits)
 
-Marks = []
+# Marks = []
 
-m1 = input("marks of student1 :")
-Marks.append(m1)
-m2 = input("marks of student1 :")
-Marks.append(m2)
-m3 = input("marks of student1 :")
-Marks.append(m3)
-m4 = input("marks of student1 :")
-Marks.append(m4)
-m5 = input("marks of student1 :")
-Marks.append(m5)
+# m1 = input("marks of student1 :")
+# Marks.append(m1)
+# m2 = input("marks of student1 :")
+# Marks.append(m2)
+# m3 = input("marks of student1 :")
+# Marks.append(m3)
+# m4 = input("marks of student1 :")
+# Marks.append(m4)
+# m5 = input("marks of student1 :")
+# Marks.append(m5)
 
-p = "hamza"
-Marks.sort()
-print(Marks)
+# p = "hamza"
+# Marks.sort()
+# print(Marks)
+
+
+a = 30
+b = 10
+print(a  + b)
