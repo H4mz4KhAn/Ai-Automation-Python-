@@ -41,5 +41,6 @@ Marks.append(m4)
 m5 = input("marks of student1 :")
 Marks.append(m5)
 
+p = "hamza"
 Marks.sort()
 print(Marks)
